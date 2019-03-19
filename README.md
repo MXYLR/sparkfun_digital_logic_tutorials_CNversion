@@ -1,0 +1,2 @@
+# sparkfun_digital_logic_tutorials_CNversion
+sparkfun_digital_logic_tutorials_CNversion 中文翻译
